@@ -1,0 +1,103 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    /* width: 700px; */
+    margin: 0 auto;
+}
+.button-signIn{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #266BF9;
+    margin-top: -0.3rem;
+}
+
+
+.login-register-nav a {
+    text-decoration: none;
+
+}
+
+.row h4 {
+    /* text-align: center; */
+    padding-left: 28rem;
+    /* color: #266BF9; */
+    color: #000000;
+    font-weight: normal;
+    font-family: "Poppins", sans-serif;
+    margin: 0px 20px;
+    font-size: 35px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    
+    
+
+}
+
+.row a {
+    text-decoration: none;
+}
+
+.login-password {
+    background: transparent none repeat scroll 0 0;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+    padding: 80px;
+    width: 940px;
+    
+}
+
+.elements input {
+    display: inline-block;
+    line-height: 50px;
+    height: 50px;
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    background-color: transparent;
+    border: 1px solid #ebebeb;
+    color: #3a3a3a;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding: 0 15px;
+    width: 800px;
+    outline-color: #266BF9;
+    
+}
+
+.login-toggle-btn {
+    padding: 20px 15px;
+}
+.flote-none {
+     color: black;
+    padding-left: 8px;
+}
+
+.password {
+    padding-left: 38rem;
+    color: #000000;
+}
+
+button {
+    background-color: #f2f2f2;
+    border: medium none;
+    color: #000000;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 11px 30px;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+    outline: none;
+    border-radius: 0px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500px;
+}
+#text {
+    width: 400px;
+}

@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "editorUnnecessaryCode.border": "#dd7aab",
+    "icon.foreground": "#8a8787",
+    "activityBar.border": "#000",
+    "tab.activeBorderTop": "#f1f505",
+    "tab.activeForeground": "#dbd0d0",
+    "tab.activeBackground": "#3a882f",
+    "sideBar.border": "#f1f505",
+    "sideBarTitle.foreground": "#dbd0d0",
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f"
+},
+"workbench.editor.defaultBinaryEditor": "workbench.editorinputs.searchEditorInput"
+}
