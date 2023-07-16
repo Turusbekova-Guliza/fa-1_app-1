@@ -1,9 +1,9 @@
-import React, { useState } from "react";
+import React, {} from "react";
 import { Link } from "react-router-dom";
 import "./Header.css";
 import "../header/profile/Profile"
 
-import Card1 from "./image/msg-954831890-62440.jpg";
+// import Card1 from "./image/msg-954831890-62440.jpg";
 // import Modal from '../Modal/Modal';
 import Modal from "../../components/Modal/Modal";
 import Aisedep from "./image/710KsTsYc+L._AC_SR400,400_.jpg";
@@ -15,7 +15,7 @@ import Python from "./image/nike6.jpg";
 import BurgerMenu from "../Theme/burger-menu/Burger-Menu";
 
 const Header = () => {
-  const [openModal, setOpenModel] = useState(false);
+  // const [openModal, setOpenModel] = useState(false);
 
   return (
     <div>

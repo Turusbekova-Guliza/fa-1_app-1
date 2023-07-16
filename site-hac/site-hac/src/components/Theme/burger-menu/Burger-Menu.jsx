@@ -1,6 +1,6 @@
 import React from "react";
 import "./Burger-Menu.css";
-import Profile from "../../header/profile/Profile";
+// import Profile from "../../header/profile/Profile";
 
 const BurgerMenu = () => {
 
@@ -18,7 +18,7 @@ const BurgerMenu = () => {
         <span className="burger-span__4"></span>
       </button>
       <div className="div-burger">
-        <button id="profile-user" onClick={() => Profile(false)}>
+        <button id="profile-user">
           Profile
         </button>
         <p>Home</p>

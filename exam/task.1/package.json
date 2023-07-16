@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Iphone 14 Pro Max",
+    "price": "$920",
+    "brand": [
+      "Apple"
+    ],
+    "ssd": "256GB",
+    "color": "white",
+    "img": "https://www.custommacbd.com/cdn/shop/products/iphone-14-pro-Max-silver-Custom-Mac-BD_0f7b61f0-0a8c-479b-9485-d900b2b129ce.jpg?v=1662622356"
+  },
+  {
+    "name": "Galaxy S21 Ultra",
+    "price": "$850",
+    "brand": [
+      "Samsung Electronics Co., Ltd."
+    ],
+    "ssd": "128GB",
+    "color": "black",
+    "img": "https://m.media-amazon.com/images/I/81odSc7YNPL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Redmi Note 12 Pro",
+    "price": "$630",
+    "brand": [
+      "Xiaomi Corporation"
+    ],
+    "ssd": "128GB",
+    "color": "sky",
+    "img": "https://object.pscloud.io/cms/cms/Photo/img_0_77_4338_0_1.jpg"
+  },
+  {
+    "name": "Poco C40",
+    "price": "$700",
+    "brand": [
+      "Xiaomi Poco"
+    ],
+    "ssd": "64GB",
+    "color": "yellow",
+    "img": "https://myphone.kg/files/media/18/18458.jpg"
+  },
+  {
+    "name": "Huawei P30",
+    "price": "$550",
+    "brand": [
+      "HUAWEI Technologies Co.,Ltd"
+    ],
+    "ssd": "128GB",
+    "color": "blue",
+    "img": "https://telefon.kg/image/cache/catalog/new/Phones/Huawei/P30%20Pro/1-500x500.jpg"
+  },
+  {
+    "name": "LG Q60",
+    "price": "$550",
+    "brand": [
+      "LG ELECTRONICS INC."
+    ],
+    "ssd": "64GB",
+    "color": "blue",
+    "img": "https://3dnews.ru/assets/external/illustrations/2019/02/20/983076/q602.jpg"
+  },
+  {
+    "name": "Nokia 3310",
+    "price": "$450",
+    "brand": [
+      "NOKIA CORPORATION"
+    ],
+    "ssd": "16GB",
+    "color": "red",
+    "img": "https://images.ctfassets.net/wcfotm6rrl7u/ozzwhdkkSr14K1RalbFZ8/a064675a0d3201d67bd59b20cffb5598/nokia-3310_3G-warm_red-front_back-int.png"
+  },
+  {
+    "name": "T-Mobile REVVL",
+    "price": "$400",
+    "brand": [
+      "SAMSUNG Electronics CO., LTD."
+    ],
+    "ssd": "32GB",
+    "color": "black",
+    "img": "https://m.media-amazon.com/images/I/514lQFZpvPL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "QMobile Noir S6 Plus",
+    "price": "$350",
+    "brand": [
+      "QMobiel Corporation"
+    ],
+    "ssd": "16GB",
+    "color": "gold",
+    "img": "https://fdn2.mobgsm.com/vv/pics/qmobile/QMobile_S6_Plus.jpg"
+  },
+  {
+    "name": "Sony Xperia 5",
+    "price": "$550",
+    "brand": [
+      "Sony Corporation"
+    ],
+    "ssd": "64GB",
+    "color": "green",
+    "img": "https://c.ua/image/cache/catalog/VladimirGorchakov/SonyXperia5IV/gree/1-500x500.jpg"
+  },
+  {
+    "name": "Tecno Camon 20",
+    "price": "$650",
+    "brand": [
+      "Tecno Corporation, LTD"
+    ],
+    "ssd": "64GB",
+    "color": "blue",
+    "img": "https://m.media-amazon.com/images/I/71F5hbrxUoL.jpg"
+  },
+  {
+    "name": "UMI Touch Specifications",
+    "price": "$350",
+    "brand": [
+      "UMI CORPORATION, LTD"
+    ],
+    "ssd": "16GB",
+    "color": "silver",
+    "img": "https://www.pdevice.com/wp-content/uploads/2016/01/UMI-TOUCH-Review-400x400.jpg"
+  },
+  {
+    "name": "Iphone 14 Pro Max",
+    "price": "$900",
+    "brand": [
+      "Apple"
+    ],
+    "ssd": "256GB",
+    "color": "green",
+    "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-13-Pro-Max/Alpine-Green/Apple-iPhone-13-Pro-Max-Alpine-Green-frontimage.png"
+  },
+  {
+    "name": "Galaxy S22 Ultra",
+    "price": "$820",
+    "brand": [
+      "Samsung Electronics Co., Ltd."
+    ],
+    "ssd": "128GB",
+    "color": "purple",
+    "img": "https://d1eh9yux7w8iql.cloudfront.net/product_images/641789_a8e8d577-96b4-4cbd-be8a-f46b39ca245f.jpg"
+  },
+  {
+    "name": "Redmi Note 11 Pro",
+    "price": "$600",
+    "brand": [
+      "Xiaomi Corporation"
+    ],
+    "ssd": "128GB",
+    "color": "sky white",
+    "img": "https://m.media-amazon.com/images/I/51Bo6vLqSPL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Poco C3",
+    "price": "$600",
+    "brand": [
+      "Xiaomi Poco"
+    ],
+    "ssd": "32GB",
+    "color": "yellow",
+    "img": "https://mobile-review.com/news/wp-content/uploads/poco-c3.jpg"
+  },
+  {
+    "name": "Huawei Novi 7i",
+    "price": "$500",
+    "brand": [
+      "HUAWEI Technologies Co.,Ltd"
+    ],
+    "ssd": "64GB",
+    "color": "green",
+    "img": "https://xpressmobile.co.uk/wp-content/uploads/2021/12/huawei-nova-7i-pakistan-priceoye-3uehg-1-2.jpg"
+  },
+  {
+    "name": "LG Wing",
+    "price": "$650",
+    "brand": [
+      "LG ELECTRONICS INC."
+    ],
+    "ssd": "128GB",
+    "color": "black",
+    "img": "https://fdn2.gsmarena.com/vv/pics/lg/lg-wing-0.jpg"
+  },
+  {
+    "name": "Nokia X50 Pro",
+    "price": "$800",
+    "brand": [
+      "NOKIA CORPORATION"
+    ],
+    "ssd": "256GB",
+    "color": "black",
+    "img": "https://mobilebuyprice.com/wp-content/uploads/2022/02/Nokia-X50-Pro-2022.jpg"
+  },
+  {
+    "name": "T-Mobile Sidekick",
+    "price": "$350",
+    "brand": [
+      "SAMSUNG Electronics CO., LTD."
+    ],
+    "ssd": "8GB",
+    "color": "black",
+    "img": "https://fdn2.gsmarena.com/vv/pics/t-mobile/sidekick-3-01.jpg"
+  },
+  {
+    "name": "QMobile E700",
+    "price": "250",
+    "brand": [
+      "QMobiel Corporation"
+    ],
+    "ssd": "8GB",
+    "color": "grey",
+    "img": "https://hamariweb.com/images/MobilePhones/e700.jpg"
+  },
+  {
+    "name": "Sony Xperia Z3",
+    "price": "$500",
+    "brand": [
+      "Sony Corporation"
+    ],
+    "ssd": "32GB",
+    "color": "white",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2022/5/UP/RP/IB/150706363/sony-xperia-z3-white-500x500-500x500.jpg"
+  },
+  {
+    "name": "Tecno Park 10 Pro",
+    "price": "$750",
+    "brand": [
+      "Tecno Corporation, LTD"
+    ],
+    "ssd": "256GB",
+    "color": "white",
+    "img": "https://g-mart.pk/wp-content/uploads/Tecno_Spark_10_Pro-1-438x593.jpg"
+  },
+  {
+    "name": "UMI Rome X",
+    "price": "$400",
+    "brand": [
+      "UMI CORPORATION, LTD"
+    ],
+    "ssd": "32GB",
+    "color": "gold",
+    "img": "https://i5.walmartimages.com/asr/ffbb8b0c-be82-46bf-85cf-5821ee91a2bb_1.1e084b504dec80c049c52781c144fca9.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+  }
+]
