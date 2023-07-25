@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "macro-css": "^1.0.5",
+    "sass": "^1.64.1"
+  }
+}
